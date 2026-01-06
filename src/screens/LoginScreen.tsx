@@ -118,10 +118,10 @@ export const LoginScreen: React.FC<LoginScreenProps> = ({ navigation }) => {
                 <Text style={styles.demoTitle}>Demo Credentials</Text>
                 <View style={styles.demoCredentials}>
                   <Text style={styles.demoText}>
-                    Email: demo@example.com
+                    Email: ankit+1@gmail.com
                   </Text>
                   <Text style={styles.demoText}>
-                    Password: password123
+                    Password: Ankit1
                   </Text>
                 </View>
               </View>
